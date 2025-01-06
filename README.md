@@ -18,43 +18,28 @@ Berikut adalah penjelasan detail untuk setiap halaman utama dalam proyek ini:
 ### 1. Halaman Utama
 ![image](https://github.com/user-attachments/assets/8d8ddf8f-3213-4d48-b1a7-a01114c74571)
 ![image](https://github.com/user-attachments/assets/ce27b2dc-363b-438c-abc8-6e2d1a3035eb)
-## Terdapat beberapa elemen desain dan konten sebagai berikut:
+1. Bagian Hidangan Tradisional
 
- 1. Header Gradien dengan Judul: 
-    Bagian atas memiliki background gradien warna cerah dengan teks judul "Kuliner Nusantara" serta tagline "Eksplorasi Cita Rasa Warisan Indonesia."
+Deskripsi: Bagian ini menampilkan hidangan tradisional Nusantara dari berbagai daerah, lengkap dengan gambar dan keterangan asal daerahnya. Elemen-elemen yang ditampilkan:
 
-2. Navigasi Bar:
-    Menu navigasi berwarna merah terang dengan pilihan seperti "Kuliner," "Makanan," "Minuman," dan "About." Di sisi kanan terdapat tombol login.
+Judul Kategori: Teks "Hidangan Tradisional" yang berwarna biru cerah, menarik perhatian pengunjung.
+Kartu Hidangan: Terdapat empat menu makanan tradisional, masing-masing dilengkapi gambar, nama, dan asal daerah:
+Rendang: Hidangan khas Sumatera Barat yang kaya rempah.
+Gudeg: Makanan khas Yogyakarta berbahan dasar nangka muda.
+Pempek: Kudapan khas Palembang berbahan ikan dan sagu.
+Sate: Makanan berbahan daging panggang dari Madura.
+Latar Belakang Budaya: Ilustrasi bercorak seni Nusantara menghiasi bagian belakang, memberikan kesan tradisional dan kaya budaya.
+2. Bagian Minuman Tradisional
 
-3. Ilustrasi Latar Belakang:
-   Bagian latar belakang di bawah navigasi menunjukkan ilustrasi bertema budaya Nusantara, menampilkan motif tradisional dan makanan khas.
+Deskripsi: Bagian ini menampilkan minuman tradisional Nusantara yang menyegarkan, disajikan dengan desain modern. Elemen-elemen yang ditampilkan:
 
-4. Seksi Hidangan Tradisional:
-   Terdapat panel "Hidangan Tradisional" dengan empat kartu menu makanan:
-
-Rendang (Sumatera Barat)
-Gudeg (Yogyakarta)
-Pempek (Palembang)
-Sate (Madura)
-Masing-masing kartu memiliki gambar makanan, lokasi asal, dan tampilan yang berwarna-warni.
-
-## kategori Minuman Tradisional. Elemen-elemen yang terlihat adalah:
-
-Judul Kategori:
-Terdapat teks berwarna biru dengan judul "Minuman Tradisional," menonjolkan bagian minuman khas Nusantara.
-
-Panel Minuman:
-Menampilkan empat kartu menu minuman tradisional Indonesia berikut:
-
-Es Cendol (Jawa Barat): Minuman khas dengan campuran santan, gula aren, dan cendol.
-Wedang Ronde (Jawa Tengah): Minuman hangat berisi bola-bola ketan dengan jahe.
-Bajigur (Jawa Barat): Minuman hangat berbasis santan dan gula aren.
-Es Doger (Jawa Barat): Minuman dingin berwarna merah muda dengan campuran kelapa, tape, dan es serut.
-Setiap kartu memiliki gambar minuman, nama, asal daerah, serta latar warna hijau-biru yang segar.
-
-Latar Belakang Budaya:
-Latar belakang menampilkan ilustrasi bercorak seni budaya Indonesia dengan unsur flora dan warna-warna cerah, memperkuat nuansa tradisional dan artistik.
-
+Judul Kategori: Teks "Minuman Tradisional" berwarna biru yang mempertegas bagian ini.
+Kartu Minuman: Terdapat empat menu minuman khas Indonesia, masing-masing dengan gambar dan deskripsi asal daerah:
+Es Cendol (Jawa Barat): Minuman segar berbahan cendol, santan, dan gula aren.
+Wedang Ronde (Jawa Tengah): Minuman hangat berbahan jahe dengan bola-bola ketan.
+Bajigur (Jawa Barat): Minuman hangat berbasis santan, gula aren, dan rempah.
+Es Doger (Jawa Barat): Minuman dingin manis berbahan kelapa, tape, dan es serut.
+Latar Belakang Budaya: Ilustrasi seni penuh warna dengan elemen flora, memperkaya tampilan visual dan menyampaikan nuansa khas Nusantara.
 
 
 
