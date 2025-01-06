@@ -103,8 +103,9 @@ Halaman ini bertujuan untuk memberi gambaran yang jelas tentang siapa kami dan a
 Dengan adanya halaman kontak ini, kami berharap dapat mempermudah komunikasi dengan pengunjung dan memberikan pengalaman yang lebih baik.
 
 ## Halaman Tambah dan Edit
-![image](https://github.com/user-attachments/assets/3f967650-a7a6-465f-876e-9f2fdff568c8)
-![image](https://github.com/user-attachments/assets/ac1b2c09-2a37-4cf7-9069-0625aca5c721)
+![image](https://github.com/user-attachments/assets/fc393eea-6a0c-4d0c-b30b-464d86523a07)
+![image](https://github.com/user-attachments/assets/97b09d03-2b28-4a9d-a93d-dec4d5b0ae49)
+
 ## Tambah Data Makanan dan Minuman
 
 Fitur "Tambah Data Makanan dan Minuman" memungkinkan pengguna untuk menambahkan item baru ke dalam daftar makanan dan minuman yang tersedia di website. Dengan fitur ini, pengelola website dapat memperbarui koleksi menu secara mudah dan cepat.
