@@ -78,6 +78,9 @@ Pada halaman About, Anda dapat menemukan informasi mendetail mengenai misi, visi
 
 ## Halaman contact
 ![image](https://github.com/user-attachments/assets/b4777bba-1c42-4c7a-9b4d-e6583254c34e)
+-Pada halaman contact berisi seperti yang tertera pada gambar,Termausuk :
+-Kirim Pesan
+-Informasi kontak
 
 
 
