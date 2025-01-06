@@ -104,7 +104,7 @@ Dengan adanya halaman kontak ini, kami berharap dapat mempermudah komunikasi den
 
 ## Halaman Tambah dan Edit
 ![image](https://github.com/user-attachments/assets/fc393eea-6a0c-4d0c-b30b-464d86523a07)
-![image](https://github.com/user-attachments/assets/97b09d03-2b28-4a9d-a93d-dec4d5b0ae49)
+![image](https://github.com/user-attachments/assets/c5ff7495-2b7c-45de-b3d1-2b0d2ba569b1)
 
 ## Tambah Data Makanan dan Minuman
 
