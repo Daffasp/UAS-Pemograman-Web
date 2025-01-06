@@ -78,9 +78,28 @@ Pada halaman About, Anda dapat menemukan informasi mendetail mengenai misi, visi
 
 ## Halaman contact
 ![image](https://github.com/user-attachments/assets/b4777bba-1c42-4c7a-9b4d-e6583254c34e)
--Pada halaman contact berisi seperti yang tertera pada gambar,Termausuk :
--Kirim Pesan
--Informasi kontak
+## Halaman Kontak
+
+Halaman kontak pada website ini bertujuan untuk memudahkan pengunjung dalam menghubungi kami. Di halaman ini, pengunjung dapat menemukan informasi kontak kami serta fasilitas untuk mengirimkan pesan langsung. Halaman kontak terdiri dari tiga bagian utama:
+
+### 1. Informasi Kontak
+Di bagian ini, pengunjung akan menemukan berbagai cara untuk menghubungi kami, seperti:
+- Alamat email
+- Nomor telepon
+- Alamat fisik
+
+Semua informasi ini disediakan untuk memudahkan komunikasi.
+
+### 2. Formulir Kirim Pesan
+Pengunjung dapat mengirimkan pesan langsung kepada kami melalui formulir yang tersedia. Formulir ini memerlukan beberapa informasi dasar, seperti:
+- Nama
+- Email
+- Pesan yang ingin disampaikan
+
+Halaman ini bertujuan untuk memberi gambaran yang jelas tentang siapa kami dan apa yang kami lakukan.
+
+Dengan adanya halaman kontak ini, kami berharap dapat mempermudah komunikasi dengan pengunjung dan memberikan pengalaman yang lebih baik.
+
 
 
 
