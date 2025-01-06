@@ -9,10 +9,6 @@
 
 # Kuliner Nusantara - Website Kuliner Tradisional Indonesia
 
-Selamat datang di Repository Kuliner Nusantara
-
-## Struktur Proyek
-
 Berikut adalah penjelasan detail untuk setiap halaman utama dalam proyek ini:
 
 ### 1. Halaman Utama
