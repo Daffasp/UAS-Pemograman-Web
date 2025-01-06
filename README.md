@@ -78,7 +78,8 @@ Pada halaman About, Anda dapat menemukan informasi mendetail mengenai misi, visi
    Bagian footer mencantumkan informasi hak cipta: "© 2024 Kuliner Nusantara. Hak Cipta Dilindungi." Hal ini menunjukkan komitmen platform terhadap hak cipta dan profesionalisme.
 
 ## Halaman contact
-![image](https://github.com/user-attachments/assets/b4777bba-1c42-4c7a-9b4d-e6583254c34e)
+![image](https://github.com/user-attachments/assets/8f0988ba-6ca9-4705-b50c-3e2fe9e52300)
+
 ## Halaman Kontak
 
 Halaman kontak pada website ini bertujuan untuk memudahkan pengunjung dalam menghubungi kami. Di halaman ini, pengunjung dapat menemukan informasi kontak kami serta fasilitas untuk mengirimkan pesan langsung. Halaman kontak terdiri dari tiga bagian utama:
