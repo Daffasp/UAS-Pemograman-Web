@@ -53,8 +53,9 @@ Bagian ini menampilkan minuman khas Nusantara yang menyegarkan:
 ---
 
 ## Halaman About
-![image](https://github.com/user-attachments/assets/e1aef81e-2e2e-4a17-9744-5e1ea631559a)
-![image](https://github.com/user-attachments/assets/11dd3146-1d72-41a6-bb47-a6093583fa99)
+![image](https://github.com/user-attachments/assets/d39e9c0f-8a79-4503-a737-7a2b2e87a85d)
+![image](https://github.com/user-attachments/assets/a504fc13-d8ff-4866-9d30-4bb2a4c25e4a)
+
 ### Halaman About
 
 Pada halaman About, Anda dapat menemukan informasi mendetail mengenai misi, visi, dan nilai dari platform "Kuliner Nusantara" yang bertujuan untuk memperkenalkan keanekaragaman kuliner tradisional Indonesia.
