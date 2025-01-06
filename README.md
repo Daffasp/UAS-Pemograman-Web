@@ -100,6 +100,30 @@ Halaman ini bertujuan untuk memberi gambaran yang jelas tentang siapa kami dan a
 
 Dengan adanya halaman kontak ini, kami berharap dapat mempermudah komunikasi dengan pengunjung dan memberikan pengalaman yang lebih baik.
 
+## Halaman Tambah dan Edit
+![image](https://github.com/user-attachments/assets/3f967650-a7a6-465f-876e-9f2fdff568c8)
+![image](https://github.com/user-attachments/assets/ac1b2c09-2a37-4cf7-9069-0625aca5c721)
+## Tambah Data Makanan dan Minuman
+
+Fitur "Tambah Data Makanan dan Minuman" memungkinkan pengguna untuk menambahkan item baru ke dalam daftar makanan dan minuman yang tersedia di website. Dengan fitur ini, pengelola website dapat memperbarui koleksi menu secara mudah dan cepat.
+
+### Fungsi Utama:
+- **Menambah Makanan dan Minuman Baru**: Pengguna dapat memasukkan informasi lengkap tentang makanan atau minuman, seperti nama dan deskripsi.
+- **Pengelolaan Menu**: Memudahkan pengelola untuk memperbarui dan menambah variasi menu yang ditawarkan kepada pengunjung.
+
+## Halaman 404 
+![image](https://github.com/user-attachments/assets/368a0c17-94c9-4778-97e4-331502df1ab3)
+## Halaman 404 - Not Found
+
+Halaman 404 Not Found akan muncul ketika pengunjung mencoba mengakses halaman yang tidak ada atau sudah tidak tersedia di website. Halaman ini memberi tahu pengunjung bahwa alamat URL yang diminta tidak ditemukan, dan mereka dapat memilih untuk kembali ke halaman utama atau mencari konten lain di website.
+
+### Fungsi Halaman 404:
+- **Memberikan Pesan Error**: Memberitahukan pengunjung bahwa halaman yang mereka cari tidak ada.
+- **Tautan Kembali ke Halaman Utama**: Pengunjung dapat dengan mudah kembali ke halaman utama website melalui tombol atau link yang tersedia.
+- **Mencari Konten Lain**: Tersedia opsi untuk mencari konten lain yang relevan melalui fitur pencarian.
+
+Halaman 404 dirancang untuk meningkatkan pengalaman pengguna dengan memberikan navigasi yang jelas dan mudah, meskipun mereka menemui halaman yang tidak ditemukan.
+
 
 
 
