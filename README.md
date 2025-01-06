@@ -52,6 +52,32 @@ Bagian ini menampilkan minuman khas Nusantara yang menyegarkan:
 
 ---
 
+## Halaman About
+![image](https://github.com/user-attachments/assets/e1aef81e-2e2e-4a17-9744-5e1ea631559a)
+![image](https://github.com/user-attachments/assets/11dd3146-1d72-41a6-bb47-a6093583fa99)
+### Halaman About
+
+Pada halaman About, Anda dapat menemukan informasi mendetail mengenai misi, visi, dan nilai dari platform "Kuliner Nusantara" yang bertujuan untuk memperkenalkan keanekaragaman kuliner tradisional Indonesia.
+
+#### Elemen pada Halaman About:
+
+1. **Cerita Kami**
+   Halaman ini menjelaskan latar belakang "Kuliner Nusantara" sebagai platform yang merayakan kekayaan kuliner Indonesia. Dengan bahan lokal terbaik dan resep autentik, tujuan utama kami adalah mengajak pengguna menikmati cita rasa nusantara dengan bangga.
+
+2. **Misi Kami**
+   - Melestarikan warisan kuliner Nusantara dengan memperkenalkan keanekaragamannya ke khalayak luas.
+
+3. **Visi Kami**
+   - Menjadi platform utama dalam eksplorasi, edukasi, dan apresiasi kuliner tradisional Indonesia.
+
+4. **Nilai Kami**
+   - Menjunjung tinggi keaslian, keberagaman, keberlanjutan, serta penghormatan terhadap warisan kuliner Indonesia.
+
+5. **Footer**
+   Bagian footer mencantumkan informasi hak cipta: "© 2024 Kuliner Nusantara. Hak Cipta Dilindungi." Hal ini menunjukkan komitmen platform terhadap hak cipta dan profesionalisme.
+
+
+
 
 
 
