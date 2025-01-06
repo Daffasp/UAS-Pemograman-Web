@@ -20,17 +20,17 @@ Berikut adalah penjelasan detail untuk setiap halaman utama dalam proyek ini:
 ![image](https://github.com/user-attachments/assets/ce27b2dc-363b-438c-abc8-6e2d1a3035eb)
 ## Terdapat beberapa elemen desain dan konten sebagai berikut:
 
- Header Gradien dengan Judul: 
-Bagian atas memiliki background gradien warna cerah dengan teks judul "Kuliner Nusantara" serta tagline "Eksplorasi Cita Rasa Warisan Indonesia."
+ 1. Header Gradien dengan Judul: 
+    Bagian atas memiliki background gradien warna cerah dengan teks judul "Kuliner Nusantara" serta tagline "Eksplorasi Cita Rasa Warisan Indonesia."
 
-Navigasi Bar:
-Menu navigasi berwarna merah terang dengan pilihan seperti "Kuliner," "Makanan," "Minuman," dan "About." Di sisi kanan terdapat tombol login.
+2. Navigasi Bar:
+    Menu navigasi berwarna merah terang dengan pilihan seperti "Kuliner," "Makanan," "Minuman," dan "About." Di sisi kanan terdapat tombol login.
 
-Ilustrasi Latar Belakang:
-Bagian latar belakang di bawah navigasi menunjukkan ilustrasi bertema budaya Nusantara, menampilkan motif tradisional dan makanan khas.
+3. Ilustrasi Latar Belakang:
+   Bagian latar belakang di bawah navigasi menunjukkan ilustrasi bertema budaya Nusantara, menampilkan motif tradisional dan makanan khas.
 
-Seksi Hidangan Tradisional:
-Terdapat panel "Hidangan Tradisional" dengan empat kartu menu makanan:
+4. Seksi Hidangan Tradisional:
+   Terdapat panel "Hidangan Tradisional" dengan empat kartu menu makanan:
 
 Rendang (Sumatera Barat)
 Gudeg (Yogyakarta)
