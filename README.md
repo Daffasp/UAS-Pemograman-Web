@@ -12,8 +12,9 @@
 Berikut adalah penjelasan detail untuk setiap halaman utama dalam proyek ini:
 
 ### 1. Halaman Utama
-![image](https://github.com/user-attachments/assets/8d8ddf8f-3213-4d48-b1a7-a01114c74571)
-![image](https://github.com/user-attachments/assets/ce27b2dc-363b-438c-abc8-6e2d1a3035eb)
+![image](https://github.com/user-attachments/assets/3da3061e-ae98-4cc8-a605-e97ca66f61c0)
+![image](https://github.com/user-attachments/assets/a4f4a885-37a6-4853-8dff-f154852eb506)
+
 # Kuliner Nusantara
 
 Eksplorasi cita rasa warisan Indonesia melalui desain website modern yang menampilkan berbagai hidangan dan minuman tradisional Nusantara.
