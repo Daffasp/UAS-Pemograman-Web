@@ -29,7 +29,8 @@ Eksplorasi cita rasa warisan Indonesia melalui desain website modern yang menamp
 ## Tampilan Website
 
 ### 1. Bagian Hidangan Tradisional
-![Screenshot 2025-01-06 134638](https://github.com/user-attachments/assets/53e58991-13c7-49e2-9d0c-606f7dde5668)
+![image](https://github.com/user-attachments/assets/152ca80b-3ab0-4ca0-99eb-bc1ecee2a235)
+
 
 
 **Deskripsi**:  
@@ -42,7 +43,8 @@ Bagian ini menampilkan hidangan tradisional Nusantara, seperti:
 ---
 
 ### 2. Bagian Minuman Tradisional
-![image](https://github.com/user-attachments/assets/ce27b2dc-363b-438c-abc8-6e2d1a3035eb)
+![image](https://github.com/user-attachments/assets/ec659ccd-131a-4c56-a24d-61bf8a93cb0c)
+
 
 **Deskripsi**:  
 Bagian ini menampilkan minuman khas Nusantara yang menyegarkan:
