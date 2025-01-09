@@ -56,8 +56,9 @@ Bagian ini menampilkan minuman khas Nusantara yang menyegarkan:
 ---
 
 ## Halaman About
-![image](https://github.com/user-attachments/assets/d39e9c0f-8a79-4503-a737-7a2b2e87a85d)
-![image](https://github.com/user-attachments/assets/a504fc13-d8ff-4866-9d30-4bb2a4c25e4a)
+![image](https://github.com/user-attachments/assets/3ade625c-d64f-478f-beb3-aef6de2662f0)
+![image](https://github.com/user-attachments/assets/3a82285f-09ba-464b-a5a6-52f1c116c6d1)
+
 
 ### Halaman About
 
