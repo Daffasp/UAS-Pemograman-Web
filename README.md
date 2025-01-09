@@ -12,7 +12,7 @@
 Berikut adalah penjelasan detail untuk setiap halaman utama dalam proyek ini:
 
 ### 1. Halaman Utama
-![image](https://github.com/user-attachments/assets/3da3061e-ae98-4cc8-a605-e97ca66f61c0)
+![image](https://github.com/user-attachments/assets/ee92ce35-db10-406a-a9d9-87e2bc0032c3)
 ![image](https://github.com/user-attachments/assets/a4f4a885-37a6-4853-8dff-f154852eb506)
 
 # Kuliner Nusantara
